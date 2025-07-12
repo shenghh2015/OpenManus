@@ -192,13 +192,10 @@ cython_debug/
 # Local History for Visual Studio Code
 .history/
 
-<<<<<<< HEAD
 # Workspace
 workspace/
 
 config/config.toml
-tmp/
-=======
 # Built Visual Studio Code Extensions
 *.vsix
 
@@ -207,4 +204,3 @@ tmp/
 
 # node
 node_modules
->>>>>>> upstream/main
